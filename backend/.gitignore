@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Chroma Database
+database/chroma_db/
+
+# Uploaded PDFs
+uploads/
+
+# BM25 Cache
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
